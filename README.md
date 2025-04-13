@@ -59,13 +59,15 @@ CPU Utilization: 84.62%
 
   <h2>Screenshots</h2>
   <div class="screenshot">
-     ![FCFS Screenshot](ScreenShots/FCFS.png)
-    <p class="caption">Screenshot demonstrating FCFS when equal CPU burst times are present.</p>
+   <img src="ScreenShots/FCFS.png" alt="FCFS Screenshot" width="100%">
+    <p class="caption">This screenshot demonstrates the First-Come-First-Served (FCFS) behavior when processes have 
+equal burst times.</p>
   </div>
 
   <div class="screenshot">
-    <img src="preemption_condition.png" alt="Preemption Screenshot" width="100%">
-    <p class="caption">Screenshot demonstrating preemption by a process with shorter burst time.</p>
+   <img src="ScreenShots/SRTF.png" alt="SRTF Algorithm Screenshot" width="100%">
+    <p class="caption">This screenshot demonstrates the preemptive behavior of the Shortest Remaining Time First (SRTF) 
+algorithm.</p>
   </div>
 
 </body>
