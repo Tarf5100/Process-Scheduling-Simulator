@@ -59,7 +59,7 @@ CPU Utilization: 84.62%
 
   <h2>Screenshots</h2>
   <div class="screenshot">
-    <img src="fcfs_condition.png" alt="FCFS Condition Screenshot" width="100%">
+    <img src="C:\Users\tarfh\OneDrive\Pictures\Saved Pictures\FCFS.png" alt="FCFS Condition Screenshot" width="100%">
     <p class="caption">Screenshot demonstrating FCFS when equal CPU burst times are present.</p>
   </div>
 
