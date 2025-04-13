@@ -59,7 +59,7 @@ CPU Utilization: 84.62%
 
   <h2>Screenshots</h2>
   <div class="screenshot">
-     ![FCFS Screenshot](images/FCFS.png)
+     ![FCFS Screenshot](ScreenShots/FCFS.png)
     <p class="caption">Screenshot demonstrating FCFS when equal CPU burst times are present.</p>
   </div>
 
